@@ -37,6 +37,5 @@ NotesManager is a full-stack web application that allows users to **signup, logi
 ### 1. Clone the repository
 
 git clone https://github.com/<your-username>/NotesManager.git
-cd NotesManager
 
 
